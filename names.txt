@@ -1,0 +1,6 @@
+arun
+upstream 
+fork
+git remote add upsream "url"
+git remote -v
+
